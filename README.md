@@ -1,5 +1,5 @@
 # Covid Detection Using Convolution Neural Networks
-This is a porject to detect the fact that a person male/female is infected with the Novel Corona Virus using the analysis of their chest X-Rays.
+This is a project to detect the fact that a person male/female is infected with the Novel Corona Virus using the analysis of their chest X-Rays.
 
 ## Model
 The Neural Network System Used to analyse the dataset
