@@ -15,6 +15,9 @@ The Flatten layer is a utility layer that flattens an input of shape n * c * h *
 ### Dense
 Dense implements the operation: output = activation(dot(input, kernel) + bias) where activation is the element-wise activation function passed as the activation argument, kernel is a weights matrix created by the layer, and bias is a bias vector created by the layer (only applicable if use_bias is True ).
 
+## Model Accuracy and Images
+![Chest x-ray Sample 1](https://github.com/kartikeya72001/CovidDetection/blob/master/dataset/Train/Covid/01E392EE-69F9-4E33-BFCE-E5C968654078.jpeg)
+![Chest X-ray Sample 2](https://github.com/kartikeya72001/CovidDetection/blob/master/dataset/Train/Normal/IM-0151-0001.jpeg)
 ![Model Accuracy Graphs](https://github.com/kartikeya72001/CovidDetection/blob/master/Models/Model-21-98.28(-)/Model-21-98.28(-)(1).png)
 
 
